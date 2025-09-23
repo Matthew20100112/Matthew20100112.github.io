@@ -5,6 +5,7 @@
   </head>
 <body>
 <h1> This is me.  Hello </h1>
+<p> I went to Chicago. </p>
   
 </body>
 </html>
